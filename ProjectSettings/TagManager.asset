@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnterCasino
+  - BlackJackPlay
+  - Exit Casino
+  - 5xMult
+  - FirstElevator
+  - ElevatorDown
+  - 5
+  - 0
+  - 50
+  - 1.1
+  - .2
+  - 20
+  - 1
+  - .8
+  - .1
+  - 10
+  - .5
+  - 1.5
+  - ATM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: table
+    uniqueID: 671588505
+    locked: 0
+  - name: ui
+    uniqueID: 653942991
+    locked: 0

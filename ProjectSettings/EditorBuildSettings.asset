@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: f03a4b4fa0548f449a9d7f64e423b288
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 5f2d7e644fe7f91488c9f3d0fd0f0d40
+  - enabled: 1
+    path: Assets/Scenes/FirstFloorScene.unity
+    guid: 24ff93211adb64a41893571e559cb1f6
+  - enabled: 1
+    path: Assets/Scenes/BlackJack.unity
+    guid: dbbfa028380232440bf9e53af300c3bd
+  - enabled: 1
+    path: Assets/Scenes/Plinko.unity
+    guid: c131f5fb8888ef94098a77a7a14e6f51
+  - enabled: 1
+    path: Assets/Scenes/SecondFloorScene.unity
+    guid: 2fd0845808db4224ba91f6379d77b4eb
+  - enabled: 1
+    path: Assets/Scenes/777.unity
+    guid: b4d8fc8a250f995459b3340529666ca9
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 4e41fa9ad93a32d41a122c6c72dcbdfe
+  m_configObjects: {}

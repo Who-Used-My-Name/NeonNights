@@ -1,0 +1,1262 @@
+fileFormatVersion: 2
+guid: bf9d57c4c8d2bc3438131e9233da140b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 822
+        width: 261
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd72182526094429640b1754fb630e
+      internalID: 1699127329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 822
+        width: 185
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0bccec071a3247a385b51d14baec9
+      internalID: -2085629894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 822
+        width: 290
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4143b9d769e4040a212cc1abe4c2bd
+      internalID: 545347197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 822
+        width: 261
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f81159059df39449ecbd1e5bd7b242
+      internalID: 477999633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 472
+        width: 186
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a4775555489f43bb36e8efa4717e3
+      internalID: -643212290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 472
+        width: 289
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47b764f9c58d9459fe3bc573665172
+      internalID: -1494120129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 472
+        width: 261
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd74b204fcdcd45962acf9bccaf7f4
+      internalID: -58627832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 472
+        width: 223
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353ca2e5e4016342bc084f77475a708
+      internalID: 679670183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 328
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9122532ac86f49b6f32313ed84e35
+      internalID: -67752103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 328
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779dd92fb520ce7439d5b34b18aa3ae9
+      internalID: 1951409702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 328
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd8ce2abc191845a41b46c7b4c4fac
+      internalID: -1045814338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 328
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c2c127f67cab4ab446a7e2f356c43
+      internalID: 1745412432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 328
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1695ff7c10fc4097985e33d4e844f
+      internalID: -733966225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 328
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c7d42f04e89a4ba57064c95d8940a
+      internalID: -356609738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 328
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661741fef70b734492940a88ce17761
+      internalID: -1194943966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 328
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a15401c4c89d414f851819d0aca0fdd
+      internalID: -645386473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 329
+        width: 25
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f590d33a4a714b9d4524a3edb171a
+      internalID: 107599558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_17
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 329
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed6f93896a84a4ea8475ce5c1b086a
+      internalID: 823275484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 328
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f437c177742542879189627872ab9
+      internalID: -88329677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 328
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f5cd3f4768f546a36b20780b591f9
+      internalID: -583309415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_20
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 328
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb786dfe5dbae4693cce17df3d72d2
+      internalID: 1177524300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 328
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ccddc4014c77418de83dae3e3a0ff
+      internalID: -313681027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 188
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca10533e187b8439983ccbe18621ad
+      internalID: 820850907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 188
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09e35e3dc8688448ced1912915fd9d
+      internalID: 55008655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 188
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb6433fdc76bc4e9e291dd7f05a30d
+      internalID: 1167316620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 188
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59ba75fdc8ba44d972b0b90309c009
+      internalID: -1497466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 188
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d537e7a3451934cbe3c297fa01e7c2
+      internalID: -1118816956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 188
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78634150f45ddcd48b210bbbf52cecaf
+      internalID: 787949779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 189
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3c617a00ba384d989aad3496b1652
+      internalID: -1647055390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 189
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678741b4c32f0134f8db74df5c8bf4dc
+      internalID: 409631764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_30
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 188
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22847b6792aa75e42a789d37312d2f5d
+      internalID: -124689470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_31
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 188
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5573ae8044faf364fae235d8603bc109
+      internalID: -882447456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 188
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30bf7798da3734c986921ad0674aa2
+      internalID: -147088316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_33
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 188
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea845be2af074143baaf86a668984d2
+      internalID: -528839895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_34
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 188
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ad39a8f298864448cc9f06f0473e8a
+      internalID: -2074695322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 39
+        width: 65
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd41bc7d72b10b40bbd00b833b2ec19
+      internalID: 1289537090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996986ca59d30644b476187d59eb8fb
+      internalID: -1146728681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 29
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00534e5afbf827b4391648cdda4919ed
+      internalID: -94187635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 48
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d13c36cee5084485af4d0b7e5bfec
+      internalID: 1892485089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 48
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfea7141cc2eaa4a904e98f89f8870c
+      internalID: -1941087421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 48
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e0800d9c68eb48b9d94d575320eb5
+      internalID: 830233619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_41
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 48
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152560021aee1e747ba79454529497b4
+      internalID: 1048944858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 48
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2344f5fa54c8a7f48ad626315bff2bf2
+      internalID: 1585142682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_43
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 48
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a81c64a0cbfe48a6c524808403e57
+      internalID: 524256794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 48
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d507e91024ce4a8f8b83baa36d064
+      internalID: -1640097891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 48
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ff10cd077fc34cbe508f1c5d9523b
+      internalID: -850517332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_46
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 48
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75e2b12db853e46bc275f7731601c2
+      internalID: 2138440744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_47
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 48
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97b3553ad4a8440bc1831a69a5bde2
+      internalID: -151312673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_48
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 100
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541f9be57b884349acd5c41bdad8009
+      internalID: 1096648212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_49
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 87
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad5e1c04faaba646ac5725b4e72046c
+      internalID: -1666393988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_50
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 54
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e4f34154dd944784460daf1f5afd4
+      internalID: 1823610434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_0: 1699127329
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_1: -2085629894
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_10: -1045814338
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_11: 1745412432
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_12: -733966225
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_13: -356609738
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_14: -1194943966
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_15: -645386473
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_16: 107599558
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_17: 823275484
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_18: -88329677
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_19: -583309415
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_2: 545347197
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_20: 1177524300
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_21: -313681027
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_22: 820850907
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_23: 55008655
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_24: 1167316620
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_25: -1497466593
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_26: -1118816956
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_27: 787949779
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_28: -1647055390
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_29: 409631764
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_3: 477999633
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_30: -124689470
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_31: -882447456
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_32: -147088316
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_33: -528839895
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_34: -2074695322
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_35: 1289537090
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_36: -1146728681
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_37: -94187635
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_38: 1892485089
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_39: -1941087421
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_4: -643212290
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_40: 830233619
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_41: 1048944858
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_42: 1585142682
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_43: 524256794
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_44: -1640097891
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_45: -850517332
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_46: 2138440744
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_47: -151312673
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_48: 1096648212
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_49: -1666393988
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_5: -1494120129
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_50: 1823610434
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_6: -58627832
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_7: 679670183
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_8: -67752103
+      kisspng-hi-tech-import-automotive-coupon-boston-online-fil-blue-neon-wordart-5a705e203cc4c1.9813639415173135682489_9: 1951409702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
